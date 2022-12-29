@@ -100,3 +100,12 @@ LeoMessi
 'Leo Messi'
 >>> full_name_3[0:len(first_name)]+" "+full_name_3[len(first_name):]
 'LeoMessi '
+#Find location of a substring
+'''for example in Health is wealth we have to find the loc of eal- sub'''
+'Health is wealth'
+#find location of eal
+'Health is wealth'.find('eal')
+>>> 'Health is wealth'.find('eal')
+
+
+

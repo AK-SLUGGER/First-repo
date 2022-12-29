@@ -1,0 +1,16 @@
+"health is wealth"
+#find location of eal
+"Health is wealth".find('eal')
+1
+"Health is wealth".rfind('eal')
+11
+'Health is wealth'[11]
+'e'
+"Health is wealth'.find("e")
+1
+"Health is wealth".rfind('e')
+11
+"Health is wealth".index('eal')
+1
+"Health is wealth".rindex('eal')
+11
